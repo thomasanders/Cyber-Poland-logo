@@ -4,7 +4,7 @@
 ## Description
 Animation showing the capabilities of JavaScript, the text is only an example
 
-![Screen](https://github.com/thomasanders/Cyber-Poland-logo/blob/main/ps.png)
+![Screen](https://github.com/thomasanders/Cyber-Poland-logo/blob/main/Animation.gif)
 ## Technologies used in project:
 - HTML
 - CSS
