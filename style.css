@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#canvas1 {
+    background: black;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+p, a {
+  position: absolute;
+  color: white;
+  text-shadow: 2px 2px black;
+}
+p {
+  max-width: 25%;
+  padding: 20px;
+}
+
+h4 { 
+  
+  color: white;
+  font-size: 40px;
+  font-display: center;
+  position: absolute;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border-top: 4px solid white;
+}
