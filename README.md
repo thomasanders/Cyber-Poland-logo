@@ -10,5 +10,5 @@ Animation showing the capabilities of JavaScript, the text is only an example
 - CSS
 - Javascript
 - BEM convention
-## Demo
-https://thomasanders.github.io/To-do-List-app/
+## Demo, wait 2 seconds until starts ;)
+https://thomasanders.github.io/Cyber-Poland-logo/
